@@ -1,0 +1,13 @@
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+_pycache_/
+*.pyc
+
+# Environment Variables
+.env
+*.venv
+
+# Executables
+*.exe
